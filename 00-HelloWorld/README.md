@@ -1,12 +1,2 @@
-# Sintaxis-y-Semantica-de-los-Lenguajes
-• Curso: K2051
-
-• Año: 1° cuatrimestre 2019
-
-• Legajo: 151569-0
-
-• Apellido: Boschini
-
-• Nombre: Mariano
-
-#Trabajo-Practico-00
+# Trabajo Practico 00
+• "Hello, World!" en C
